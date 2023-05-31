@@ -10,7 +10,7 @@
 
 - Docker Compose
 
-![image](https://github.com/ShivangShandilya/go-api/assets/101946115/8b7a5481-99e0-4e45-88a3-e1b7d3048f0e)
+![image](https://github.com/ShivangShandilya/go-api/assets/101946115/a8a5224d-5cfc-4c44-992a-d90d3b59ba5d)
 
 ### I have created 5 endpoints for basic CRUD operations,
 
