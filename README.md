@@ -8,7 +8,7 @@
 
 - Docker (for containerization)
 
-- Docker Compose
+- Docker Compose 
 
 ![image](https://github.com/ShivangShandilya/go-api/assets/101946115/a8a5224d-5cfc-4c44-992a-d90d3b59ba5d)
 
